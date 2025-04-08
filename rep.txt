@@ -1,0 +1,33 @@
+STUDENT GRADE REPORT
+Generated: 2025-04-06 21:50:13
+============================================================
+
+Student: John
+------------------------------
+Grades: 100.0, 20.0, 70.0, 80.0
+Average: 67.50
+Minimum: 20.00
+Maximum: 100.00
+Letter Grade: D
+
+Student: Mary
+------------------------------
+Grades: 100.0, 100.0, 60.0, 70.0
+Average: 82.50
+Minimum: 60.00
+Maximum: 100.00
+Letter Grade: B
+
+
+CLASS SUMMARY
+------------------------------
+Class Average: 75.00
+Highest Grade: 100.00
+Lowest Grade: 20.00
+
+Grade Distribution:
+A (90-100): 3
+B (80-89): 1
+C (70-79): 2
+D (60-69): 1
+F (0-59): 1
