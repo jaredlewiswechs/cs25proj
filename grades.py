@@ -1,5 +1,7 @@
 import json
 import os
+
+import match
 import matplotlib.pyplot as plt
 from datetime import datetime
 import statistics
@@ -546,3 +548,14 @@ class GradeTracker:
 if __name__ == "__main__":
     app = GradeTracker()
     app.run()
+
+
+
+
+
+
+name = input("Enter name: ")
+
+match name:
+    case "jared" | "john":
+        print("Hello")
